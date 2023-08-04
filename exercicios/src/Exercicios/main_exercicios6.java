@@ -2,7 +2,7 @@ package Exercicios;
 
 import Classes.Pessoa;
 
-public class Pessoas {
+public class main_exercicios6 {
     public static void main(String[] args) {
         Pessoa lucas = new Pessoa("Lucas", "Sr.");
         Pessoa fernanda = new Pessoa("Fernanda", "Sra.");
